@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14 Pro Max 128GB Deep Purple",
+    "price": 900,
+    "image": "assets/icons/Iphone-14-pro-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Blackmagic Pocket Cinema Camera 6K",
+    "price": 2535,
+    "image": "assets/icons/camera.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 9 GPS 41mm Starlight Aluminium",
+    "price": 399,
+    "image": "assets/icons/apple-watch.png"
+  },
+  {
+    "id": 4,
+    "name": "AirPods Max Silver Starlight Aluminium",
+    "price": 549,
+    "image": "assets/icons/airpods-max-products.png"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Watch6 Classic 47mm Black",
+    "price": 369,
+    "image": "assets/icons/watch.png"
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+    "price": 1799,
+    "image": "assets/icons/zfold.png"
+  },
+  {
+    "id": 7,
+    "name": "Galaxy Buds FE Graphite",
+    "price": 99.99,
+    "image": "assets/icons/buds.png"
+  },
+  {
+    "id": 8,
+    "name": "Apple iPad 9 10.2\" 64GB Wi-Fi Silver (MK2L3) 2021",
+    "price": 398,
+    "image": "assets/icons/ipad.png"
+  }
+]

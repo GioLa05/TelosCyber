@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14 Pro 512GB Gold",
+    "price": 1437,
+    "image": "assets/icons/Iphone-14-pro-1-gold.png"
+  },
+  {
+    "id": 2,
+    "name": "AirPods Max Silver Starlight Aluminium",
+    "price": 549,
+    "image": "assets/icons/airpods-max-products.png"
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 9 GPS 41mm Starlight Aluminium",
+    "price": 399,
+    "image": "assets/icons/apple-watch.png"
+  },
+  {
+    "id": 4,
+    "name": "Apple iPhone 14 Pro 1TB Gold",
+    "price": 1499,
+    "image": "assets/icons/Iphone-14-pro-1-silver.png"
+  }
+]
